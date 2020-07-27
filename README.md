@@ -1,2 +1,2 @@
 # Face-Mask-Detection-With-Deep-Learning
-Real Time Face Mask Detection using transfer learning on MobileNetV2 model with data augmentation. Accuracy 97.30%
+Real Time Face Mask Detection using transfer learning on MobileNetV2 model with data augmentation. Accuracy 99.28%
